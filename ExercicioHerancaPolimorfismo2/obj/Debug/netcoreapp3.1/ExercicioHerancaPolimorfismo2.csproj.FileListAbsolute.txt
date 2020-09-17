@@ -1,0 +1,13 @@
+C:\Users\Lucas\source\repos\ExercicioHerancaPolimorfismo2\ExercicioHerancaPolimorfismo2\bin\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo2.exe
+C:\Users\Lucas\source\repos\ExercicioHerancaPolimorfismo2\ExercicioHerancaPolimorfismo2\bin\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo2.deps.json
+C:\Users\Lucas\source\repos\ExercicioHerancaPolimorfismo2\ExercicioHerancaPolimorfismo2\bin\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo2.runtimeconfig.json
+C:\Users\Lucas\source\repos\ExercicioHerancaPolimorfismo2\ExercicioHerancaPolimorfismo2\bin\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo2.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\ExercicioHerancaPolimorfismo2\ExercicioHerancaPolimorfismo2\bin\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo2.dll
+C:\Users\Lucas\source\repos\ExercicioHerancaPolimorfismo2\ExercicioHerancaPolimorfismo2\bin\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo2.pdb
+C:\Users\Lucas\source\repos\ExercicioHerancaPolimorfismo2\ExercicioHerancaPolimorfismo2\obj\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo2.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\ExercicioHerancaPolimorfismo2\ExercicioHerancaPolimorfismo2\obj\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo2.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\ExercicioHerancaPolimorfismo2\ExercicioHerancaPolimorfismo2\obj\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo2.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\ExercicioHerancaPolimorfismo2\ExercicioHerancaPolimorfismo2\obj\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo2.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ExercicioHerancaPolimorfismo2\ExercicioHerancaPolimorfismo2\obj\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo2.dll
+C:\Users\Lucas\source\repos\ExercicioHerancaPolimorfismo2\ExercicioHerancaPolimorfismo2\obj\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo2.pdb
+C:\Users\Lucas\source\repos\ExercicioHerancaPolimorfismo2\ExercicioHerancaPolimorfismo2\obj\Debug\netcoreapp3.1\ExercicioHerancaPolimorfismo2.genruntimeconfig.cache
